@@ -141,7 +141,7 @@ ms.locfileid: "139273832"
 
     ![画像 30](Linked_image_Files/07-design-report-in-power-bi-desktop_image7.png)
 
-8. **[開く]** ウィンドウで、**D:\PL300\Labs\07-design-report-in-power-bi-desktop\Starter** フォルダーに移動します。
+8. **[開く]** ウィンドウで、**D:\PL300\Labs\01\06-design-report-in-power-bi-desktop\Starter** フォルダーに移動します。
 
 9. **Sales Analysis** ファイルを選択します。
 

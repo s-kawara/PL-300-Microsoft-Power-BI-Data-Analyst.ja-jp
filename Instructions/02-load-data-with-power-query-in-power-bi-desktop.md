@@ -74,7 +74,7 @@ ms.locfileid: "139273834"
 
     ![画像 11](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image4.png)
 
-1. **[開く]** ウィンドウで、**D:\PL300\Labs\02-load-data-with-power-query-in-power-bi-desktop\Starter** フォルダーに移動します。
+1. **[開く]** ウィンドウで、**D:\PL300\Labs\01\02_load-data-with-power-query-in-power-bi-desktop\Starter** フォルダーに移動します。
 
 1. **Sales Analysis** ファイルを選択します。
 
