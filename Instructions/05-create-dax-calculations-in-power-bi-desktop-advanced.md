@@ -73,7 +73,7 @@ ms.locfileid: "139273336"
 
     ![画像 9](Linked_image_Files/06-create-dax-calculations-in-power-bi-desktop-advanced_image4.png)
 
-1. **[開く]** ウィンドウで、**D:\PL300\Labs\01\05-create-dax-calculations-in-power-bi-desktop-advanced\Starter** フォルダーに移動します。
+1. **[開く]** ウィンドウで、**D:\PL300\Labs\06-create-dax-calculations-in-power-bi-desktop-advanced\Starter** フォルダーに移動します。
 
 1. **Sales Analysis** ファイルを選択します。
 

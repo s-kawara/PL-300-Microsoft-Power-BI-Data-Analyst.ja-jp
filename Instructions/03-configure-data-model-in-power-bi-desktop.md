@@ -76,7 +76,7 @@ ms.locfileid: "139273652"
 
     ![画像 8](Linked_image_Files/03-configure-data-model-in-power-bi-desktop_image4.png)
 
-1. **[開く]** ウィンドウで、**D:\PL300\Labs\01\03-configure-data-model-in-power-bi-desktop\Starter** フォルダーに移動します。
+1. **[開く]** ウィンドウで、**D:\PL300\Labs\03-configure-data-model-in-power-bi-desktop\Starter** フォルダーに移動します。
 
 1. **Sales Analysis** ファイルを選択します。
 
