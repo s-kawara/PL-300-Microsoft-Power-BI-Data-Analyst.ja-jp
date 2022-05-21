@@ -465,7 +465,7 @@ ms.locfileid: "139273834"
 
 7. 「**カスタム列の式**」ボックスに、次の式 (等号記号の後) を入力します。
 
-8. 利便性のために、式は、**D:\PL300\Labs\02-load-data-with-power-query-in-power-bi-desktop\Assets\Snippets.txt** ファイルからコピーできます。"
+8. 利便性のために、式は、**D:\PL300\Labs\01\Starter\02-load-data-with-power-query-in-power-bi-desktop\Assets\Snippets.txt** ファイルからコピーできます。"
 
 
    **Power Query**
