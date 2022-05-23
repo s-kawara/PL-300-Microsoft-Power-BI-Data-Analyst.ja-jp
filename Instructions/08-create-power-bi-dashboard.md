@@ -115,7 +115,7 @@ ms.locfileid: "139273811"
 
     ![画像 34](Linked_image_Files/09-create-power-bi-dashboard_image9.png)
 
-8. **[開く]** ウィンドウで、**D:\PL300\Labs\01\08-create-power-bi-dashboard\Starter** フォルダーに移動します。
+8. **[開く]** ウィンドウで、**D:\PL300\Labs\01\Starter\08-create-power-bi-dashboard\Starter** フォルダーに移動します。
 
 9. **Sales Analysis** ファイルを選択します。
 
@@ -159,7 +159,7 @@ ms.locfileid: "139273811"
 
     ![画像 5](Linked_image_Files/09-create-power-bi-dashboard_image16.png)
 
-4. **[開く]** ウィンドウで、**D:\PL300\Labs\08-design-report-in-power-bi-desktop-enhanced\Solution** フォルダーに移動します。
+4. **[開く]** ウィンドウで、**D:\PL300\Labs\01\Starter\07-design-report-in-power-bi-desktop-enhanced\Solution** フォルダーに移動します。
 
 5. **Sales Analysis.pbix** ファイルを選択し、「**開く**」をクリックします。
 
@@ -305,6 +305,29 @@ ms.locfileid: "139273811"
 
 8. タイルに最終更新日時 (Power BI Desktop でデータ モデルを読み込むときに行ったもの) が表示されていることに注意してください。
 
+### **タスク 6: アラートを構成する**
+
+このタスクでは、データ アラートを構成します。
+
+データ アラートはダッシュボード タイル上でのみ構成でき、具体的には 1 つの数値を表示するタイル上でのみ構成できます。
+
+1. 「**Sales YTD**」タイルにカーソルを合わせ 、省略記号をクリックして、「**アラートの管理**」を選択します。
+
+    ![画像 53](Linked_image_Files/09-create-power-bi-dashboard_image42.png)
+
+2. 「**アラートの管理**」ウィンドウ (右側) で、「**アラート ルールの追加**」をクリックします。
+
+    ![画像 25](Linked_image_Files/09-create-power-bi-dashboard_image43.png)
+
+3. 「**しきい値**」ボックスで、値を **35000000** (3,500 万) に置き換えます。
+
+    ![画像 26](Linked_image_Files/09-create-power-bi-dashboard_image44.png)
+
+    *この構成により、タイルが 3,500 万を超える値に更新されるたびに通知が必ず送信されます。*
+
+4. ウィンドウの下部にある「**保存して閉じる**」をクリックします。
+
+    ![画像 27](Linked_image_Files/09-create-power-bi-dashboard_image45.png)
 
 
     "次の演習で、データセットを最新の情報に更新します。*これは通常、スケジュールされた更新を使用して行う必要があります。その場合、Power BI ではゲートウェイを使用して SQL Server データベースに接続します。ただし、教室のセットアップの制約により、ゲートウェイはありません。そのため、Power BI Desktop を開き、手動データ更新を実行してから、ファイルをワークスペースにアップロードします。"*
